@@ -7,4 +7,4 @@ print ("What is your name")
 
 newName = input()
 revName = newName [::-1]
-print("Hello",newName,"pleased to meet you, did you know that your name backwards is",revNa
+print("Hello",newName,"pleased to meet you, did you know that your name backwards is",revName
